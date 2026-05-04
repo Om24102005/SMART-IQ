@@ -1,0 +1,8 @@
+node_modules/
+smart-iq-main/node_modules/
+.env
+smart-iq-main/.env
+*.log
+.DS_Store
+dist/
+build/

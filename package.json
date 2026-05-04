@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-three/postprocessing": "^3.0.4",
+    "@theatre/core": "^0.7.2",
+    "@theatre/studio": "^0.7.2",
+    "postprocessing": "^6.39.1"
+  }
+}
